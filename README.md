@@ -9,4 +9,4 @@ As a second challenge, I was involved into a little piece of the coding world an
 
 This is a tool that works as an interpreter and allow us to run different code connected to different coding languages like Python. With that in mind, you can see in the image below how does it looks and works:
 
-![Alt text](/posts/path/to/C:\Users\dilan\OneDrive\Escritorio\PROGRAMACIÓN\Windows terminal.png "Windows terminal")
+![Alt text](/posts/path/to/C:\Users\dilan\OneDrive\Escritorio\PROGRAMACIÓN\Windows terminal.png "Optional title")
