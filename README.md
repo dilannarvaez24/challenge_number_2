@@ -1,4 +1,4 @@
-# chellenge_number_2
+# challenge_number_2
 Below you`ll find a little recap on how to run same code in different interfaces like the Windows Terminal, Git and Virtual Studio Code (VSC). 
 
 # 🌠EXECUTING SAME CODE IN DIFFERENT INTERFACES🌠: 
@@ -32,3 +32,4 @@ Finally, in Virtual studio code you´ll see in a most proffesional environment h
 
 [![VSC.png](https://i.postimg.cc/sXrKqSyp/VSC.png)](https://postimg.cc/hJ297XXj)
 
+#### As you can see, the purpose of this repository is to show how different platforms look and what about the same piece of code in those interfaces. I really hope this repository reuslts helpful if you want to take a look to the different interfaces for running code and select your favorite one. 
