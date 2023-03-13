@@ -14,5 +14,4 @@ if __name__ == "__main__" :
 
 This is a tool that works as an interpreter and allow us to run different code connected to different coding languages like Python. With that in mind, you can see in the image below how does it looks and works:
 
-https://postimg.cc/DWgjZfQf
-
+[![Git.png](https://i.postimg.cc/KzXd0RRT/Git.png)](https://postimg.cc/DWgjZfQf) 
