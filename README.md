@@ -18,4 +18,4 @@ This is a tool that works as an interpreter and allow us to run different code c
 
 ### 🖥️WINDOWS TERMINAL🖥️
 
-In the same way, the idea is to execute the same piece of code but now running it in tje Windows terminal that will be activated by applying the comand "````Win + r"
+In the same way, the idea is to execute the same piece of code but now running it in tje Windows terminal that will be activated by applying the comand:````Win + r
