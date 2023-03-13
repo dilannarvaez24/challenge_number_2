@@ -21,3 +21,14 @@ This is a tool that works as an interpreter and allow us to run different code c
 In the same way, the idea is to execute the same piece of code but now running it in tje Windows terminal that will be activated by applying the comand:
 
 ```Win + r```
+
+That way you´ll find below how it looks like using the Windows Terminal tool:
+
+[![Windows-terminal.png](https://i.postimg.cc/B60JXh5R/Windows-terminal.png)](https://postimg.cc/SXDBPfvG)
+
+###🖱️VIRTUAL STUIDO CODE🖱️
+
+Finally, in Virtual studio code you´ll see in a most proffesional environment how this code looks like. Virtual Studio is a great code editor that allow you to see better how the code looks like by applying different colors to the different code body. Additionally, VSC gives you some tools like different extensions or pluggins that will make easier your work with the platform. That being said, I will show how it loos like:
+
+[![VSC.png](https://i.postimg.cc/sXrKqSyp/VSC.png)](https://postimg.cc/hJ297XXj)
+
